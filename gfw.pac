@@ -1,4 +1,4 @@
-var proxy = "PROXY [fdd3:ecf5:726d:963f:f299:9333:bfc0:899c]:20171";
+var proxy = "PROXY [fdd3:ecf5:726d:963f:f299:9333:bfc0:899c]:10009";
 
 var direct = 'DIRECT';
 
